@@ -1,0 +1,9 @@
+C:\Users\mo1s\source\repos\shapes\shapes\bin\Debug\shapes.exe.config
+C:\Users\mo1s\source\repos\shapes\shapes\bin\Debug\shapes.exe
+C:\Users\mo1s\source\repos\shapes\shapes\bin\Debug\shapes.pdb
+C:\Users\mo1s\source\repos\shapes\shapes\obj\Debug\shapes.csprojAssemblyReference.cache
+C:\Users\mo1s\source\repos\shapes\shapes\obj\Debug\shapes.Properties.Resources.resources
+C:\Users\mo1s\source\repos\shapes\shapes\obj\Debug\shapes.csproj.GenerateResource.cache
+C:\Users\mo1s\source\repos\shapes\shapes\obj\Debug\shapes.csproj.CoreCompileInputs.cache
+C:\Users\mo1s\source\repos\shapes\shapes\obj\Debug\shapes.exe
+C:\Users\mo1s\source\repos\shapes\shapes\obj\Debug\shapes.pdb
